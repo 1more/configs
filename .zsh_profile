@@ -1,0 +1,1 @@
+export PATH=$PATH:/usr/local/sbin:/usr/local/Cellar/mongodb@3.4/3.4.10/bin
